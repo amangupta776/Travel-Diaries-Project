@@ -7,6 +7,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <h1>HELLO</h1>
     <h2>Hi edit by deepak side</h2>
+    <h3>this is changed by aman</h3>
     <Routing/>
   </React.StrictMode>
 )
